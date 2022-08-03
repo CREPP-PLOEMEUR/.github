@@ -6,5 +6,5 @@ Il est donc en perpétuelle amélioration.<br>
 
 ## Documentation
 
-La page expliquant l'utilisation des ressources est disponible <a href='../README.md'>ici</a>
+La page expliquant l'utilisation des ressources est disponible <a href='https://github.com/CREPP-PLOEMEUR/.github/blob/main/README.md'>ici</a>
 
