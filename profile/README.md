@@ -1,8 +1,6 @@
 ## Présentation
 
-Ce document a pour objectif d'expliquer le fonctionnement de Git pour les ateliers du CREPP.<br>
-Un répertoire Git a été créé pour centraliser les supports des ateliers ainsi que les codes et projets produits depuis la création du CREPP en 2012.<br>
-Il est donc en perpétuelle amélioration.<br>
+Les projets, ressources et supports sont presents sur différents répertoires Github.
 
 ## Documentation
 
